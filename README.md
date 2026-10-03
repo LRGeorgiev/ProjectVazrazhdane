@@ -19,7 +19,7 @@ Target version: Minecraft 26.3 ("Wilderness Bound"), Fabric.
 | `structures/` | Source `.nbt` houses saved from Structure Blocks |
 | `mod/` | Fabric mod that bundles the packs into one jar |
 | `tools/` | Scripts, for example the texture generator |
-| `docs/` | Roadmap, texture layout and palette |
+| `docs/` | Roadmap, texture layout and palette, house build guide |
 
 ## Build the textures
 
