@@ -1,0 +1,15 @@
+# Gradle / Fabric
+.gradle/
+build/
+run/
+out/
+*.iml
+.idea/
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+# Vanilla assets extracted for reference, never commit these (Mojang copyright)
+reference/
