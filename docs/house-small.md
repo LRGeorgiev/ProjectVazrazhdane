@@ -98,7 +98,7 @@ Villagers need beds and a job site to claim, or the house stays empty.
 1. Place a Structure Block at one bottom corner, a Corner block at the
    opposite top corner.
 2. Set the name to `vazrazhdane:house_small`, mode Save, detect the size, and
-   include entities off.
+   turn "include entities" ON if you placed villagers inside (see `docs/village-jigsaw.md`).
 3. Press Save. The file appears in your world folder under `generated`
    (check the exact subfolder name for 26.3).
 4. Copy it into `structures/house_small.nbt` in this repo.

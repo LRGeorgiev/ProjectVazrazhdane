@@ -7,18 +7,20 @@
 | 3 | Remaining professions | all 15 profession textures (cleric = priest, three smith types) | done |
 | 4 | First Revival house | `docs/house-small.md` guide, then `structures/house_small.nbt` | in progress |
 | 5 | House variants, well, church, fence | 5+ structures | todo |
-| 6 | Village data pack | `datapack/` generates a village | todo |
-| 7 | Remove vanilla villages | Only Bulgarian villages spawn | todo |
+| 6 | Village data pack | `datapack/` generates a village | in progress |
+| 7 | Remove vanilla villages | Only Bulgarian villages spawn | override written, untested |
 | 8 | Fabric mod | `mod/` builds a working jar | todo |
 | 9 | Biome types and villager variants | All biomes covered | todo |
 | 10 | Polish and release | Version 1.0.0 on Modrinth, license chosen | todo |
 
 ## Open TODOs
 
-- [ ] Find the right `pack_format` for 26.3 and add `pack.mcmeta` (copy from vanilla jar)
+- [x] Data pack format for 26.3 is 121.0 (done, `datapack/pack.mcmeta`)
+- [ ] Resource pack format for 26.3: find it with `/version` or F3+V in game, then add `resourcepack/pack.mcmeta`
 - [ ] Confirm the villager UV layout against vanilla textures from the 26.3 jar
 - [ ] Confirm required Java version (generate the Fabric template at fabricmc.net/develop)
-- [ ] Verify worldgen JSON formats for 26.3 before writing the village files
+- [x] Worldgen JSON formats checked against the wiki (structure, structure set, template pool)
+- [ ] Test in game: `/locate structure vazrazhdane:village`
 - [ ] Choose a license
 
 ## Known facts (checked)

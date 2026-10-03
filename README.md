@@ -28,6 +28,12 @@ Target version: Minecraft 26.3 ("Wilderness Bound"), Fabric.
 
 Needs Python 3 and Pillow (`pip install pillow`).
 
+## Build the data pack
+
+    python3 tools/build.py
+
+Output: `dist/vazrazhdane-datapack.zip`. See `datapack/README.md`.
+
 ## Status
 
 See `docs/roadmap.md`.

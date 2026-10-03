@@ -13,3 +13,4 @@ Thumbs.db
 __pycache__/
 # Vanilla assets extracted for reference, never commit these (Mojang copyright)
 reference/
+dist/
