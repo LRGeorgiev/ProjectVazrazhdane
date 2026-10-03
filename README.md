@@ -1,4 +1,5 @@
 # Project Vazrazhdane
+<img width="1254" height="1254" alt="103c5a6f-b15b-48b1-a7db-e263f0d46d9f" src="https://github.com/user-attachments/assets/5d8e098a-b73a-4d78-b453-bbfcc8bc603e" />
 
 A Minecraft Java Edition project that replaces vanilla villages with villages
 in the style of the Bulgarian National Revival (1800s): stone ground floors,
