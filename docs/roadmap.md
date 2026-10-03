@@ -4,8 +4,8 @@
 |---|---|---|---|
 | 1 | Project setup | Repo, folder structure | done |
 | 2 | Villager textures: plains and farmer | `resourcepack/` PNGs, generator script | done |
-| 3 | Remaining professions | shepherd, priest, blacksmith, librarian, etc. | todo |
-| 4 | First Revival house | `structures/house_small.nbt` | todo |
+| 3 | Remaining professions | all 15 profession textures (cleric = priest, three smith types) | done |
+| 4 | First Revival house | `docs/house-small.md` guide, then `structures/house_small.nbt` | in progress |
 | 5 | House variants, well, church, fence | 5+ structures | todo |
 | 6 | Village data pack | `datapack/` generates a village | todo |
 | 7 | Remove vanilla villages | Only Bulgarian villages spawn | todo |
