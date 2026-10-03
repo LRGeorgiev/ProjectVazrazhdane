@@ -1,4 +1,4 @@
-# Vazrazhdane Villages
+# Project Vazrazhdane
 
 A Minecraft Java Edition project that replaces vanilla villages with villages
 in the style of the Bulgarian National Revival (1800s): stone ground floors,
